@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/react-chat.git/static/css/main.a15b2d3e.chunk.css",
+    "main.js": "/github.io/react-chat.git/static/js/main.63e9fc18.chunk.js",
+    "main.js.map": "/github.io/react-chat.git/static/js/main.63e9fc18.chunk.js.map",
+    "runtime-main.js": "/github.io/react-chat.git/static/js/runtime-main.120898be.js",
+    "runtime-main.js.map": "/github.io/react-chat.git/static/js/runtime-main.120898be.js.map",
+    "static/css/2.d027866a.chunk.css": "/github.io/react-chat.git/static/css/2.d027866a.chunk.css",
+    "static/js/2.96392fa9.chunk.js": "/github.io/react-chat.git/static/js/2.96392fa9.chunk.js",
+    "static/js/2.96392fa9.chunk.js.map": "/github.io/react-chat.git/static/js/2.96392fa9.chunk.js.map",
+    "index.html": "/github.io/react-chat.git/index.html",
+    "static/css/2.d027866a.chunk.css.map": "/github.io/react-chat.git/static/css/2.d027866a.chunk.css.map",
+    "static/css/main.a15b2d3e.chunk.css.map": "/github.io/react-chat.git/static/css/main.a15b2d3e.chunk.css.map",
+    "static/js/2.96392fa9.chunk.js.LICENSE.txt": "/github.io/react-chat.git/static/js/2.96392fa9.chunk.js.LICENSE.txt",
+    "static/media/loader.a8c3a5a5.png": "/github.io/react-chat.git/static/media/loader.a8c3a5a5.png",
+    "static/media/logo.c4fc47fc.png": "/github.io/react-chat.git/static/media/logo.c4fc47fc.png",
+    "static/media/robot.67ed14c8.png": "/github.io/react-chat.git/static/media/robot.67ed14c8.png",
+    "static/media/user.6f56382d.jpg": "/github.io/react-chat.git/static/media/user.6f56382d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.120898be.js",
+    "static/css/2.d027866a.chunk.css",
+    "static/js/2.96392fa9.chunk.js",
+    "static/css/main.a15b2d3e.chunk.css",
+    "static/js/main.63e9fc18.chunk.js"
+  ]
+}
